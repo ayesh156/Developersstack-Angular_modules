@@ -5,8 +5,12 @@
     position: fixed;
     display: flex;
     align-items: center;
-    justify-content: center;
     padding: 0 13px;
     bottom: 0;
+
+    p{
+        color: white;
+        margin: 0;
+    }
 
 }
